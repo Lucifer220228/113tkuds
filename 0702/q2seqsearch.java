@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class q2seqseqrch {
+public class q2seqsearch {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
